@@ -52,3 +52,4 @@ This project is designed to be easily hosted on **GitHub Pages**.
 ---
 *Developed by Alisa Aey, 2026*
 # alisa-simple-portfolio
+# alisa-simple-portfolio
