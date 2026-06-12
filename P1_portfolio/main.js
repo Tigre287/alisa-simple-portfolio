@@ -22,7 +22,7 @@ const sections = ['projects', 'about', 'contact'];
 
 function updateActiveButton() {
     const scrollPos = window.scrollY + window.innerHeight / 3;
-    let activeSection = 'projects';
+    let activeSection = null;
 
     for (const id of sections) {
         const section = document.getElementById(id);
